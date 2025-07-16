@@ -2,7 +2,7 @@
 
 Este es el proyecto de prueba para el curso de Fundamentos de Programación.
 
-- **autor:**manuel bueno amaya
+- **autor:** manuel bueno amaya
 
 - **Lenguaje favorito:** Python
 - **Hobby:** jugar viedojuegos
