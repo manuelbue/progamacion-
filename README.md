@@ -1,5 +1,4 @@
-# mi primer proyecto con git
-# Mi Primer Proyecto con Git
+# Mi primer proyecto con git
 
 Este es el proyecto de prueba para el curso de Fundamentos de Programación.
 
