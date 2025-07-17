@@ -2,10 +2,10 @@
 
 Este es el proyecto de prueba para el curso de Fundamentos de Programación.
 
-- **autor:** manuel bueno amaya
+- **Autor:** Manuel Bueno Amaya
 
 - **Lenguaje favorito:** Python
-- **Hobby:** jugar viedojuegos
-- **color favorito:** azul
+- **Hobby:** Jugar videojuegos
+- **color favorito:** Azul
 - **fecha de nacimiento:** 06/06/2007
 
